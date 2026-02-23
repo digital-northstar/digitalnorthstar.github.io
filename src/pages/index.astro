@@ -1,0 +1,34 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Section from "../components/Section.astro";
+import { getCollection, render } from "astro:content";
+
+const entries = await getCollection("pages");
+
+//console.log(entries);
+/*
+<pre>{JSON.stringify(sections, null, 2)}</pre>
+*/
+
+const sections = entries.sort((a: { data: { order: number; }; }, b: { data: { order: number; }; }) => a.data.order - b.data.order);
+---
+
+<Layout sections={sections} title="Digital Northstar">
+
+  {await Promise.all(
+    sections.map(async (section) => {
+      const { Content } = await render(section);
+
+      return (
+        <Section id={section.data.id}>
+          <div class="prose dark:prose-invert max-w-none">
+            <Content />
+          </div>
+        </Section>
+      );
+    })
+  )}
+
+</Layout>
+
+
