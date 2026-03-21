@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+---
+interface Props {
+  size?: string
+  class?: string
+  label?: string
+}
+
+const {
+  size = "h-8 w-8",
+  class: extra = "",
+  label = "Digital Northstar logo"
+} = Astro.props
+---
+
+<!--
+  Inline SVG logo component
+  - size: Tailwind classes (bv. h-6 w-6)
+  - class: extra utility classes
+  - label: voor screenreaders
+-->
+
 <svg
    width="600"
    height="200"
@@ -12,7 +32,7 @@
   <rect
      width="600"
      height="200"
-     fill="#ffffff"
+     fill="none"
      id="rect1"
      x="-0.23888743"
      y="-0.95554972" />
