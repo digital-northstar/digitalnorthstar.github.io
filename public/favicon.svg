@@ -1,9 +1,273 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
-    <path d="M50.4 78.5a75.1 75.1 0 0 0-28.5 6.9l24.2-65.7c.7-2 1.9-3.2 3.4-3.2h29c1.5 0 2.7 1.2 3.4 3.2l24.2 65.7s-11.6-7-28.5-7L67 45.5c-.4-1.7-1.6-2.8-2.9-2.8-1.3 0-2.5 1.1-2.9 2.7L50.4 78.5Zm-1.1 28.2Zm-4.2-20.2c-2 6.6-.6 15.8 4.2 20.2a17.5 17.5 0 0 1 .2-.7 5.5 5.5 0 0 1 5.7-4.5c2.8.1 4.3 1.5 4.7 4.7.2 1.1.2 2.3.2 3.5v.4c0 2.7.7 5.2 2.2 7.4a13 13 0 0 0 5.7 4.9v-.3l-.2-.3c-1.8-5.6-.5-9.5 4.4-12.8l1.5-1a73 73 0 0 0 3.2-2.2 16 16 0 0 0 6.8-11.4c.3-2 .1-4-.6-6l-.8.6-1.6 1a37 37 0 0 1-22.4 2.7c-5-.7-9.7-2-13.2-6.2Z" />
-    <style>
-        path { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #FFF; }
-        }
-    </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="digital northstar logo favicon.svg"
+   inkscape:export-filename="digital northstar logo favicon 48x482.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.9161746"
+     inkscape:cx="19.010395"
+     inkscape:cy="20.917042"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient17"
+       x1="244.94897"
+       y1="4.0824828"
+       x2="281.69131"
+       y2="40.824829"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="faceLight"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#f8fbff"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#bfc7d1"
+         id="stop2-0" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient18"
+       x1="208.20663"
+       y1="4.0824828"
+       x2="244.94897"
+       y2="40.824829"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="faceDark"
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#9aa5b1"
+         id="stop3-9" />
+      <stop
+         offset="100%"
+         stop-color="#5a6572"
+         id="stop4-4" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient19"
+       x1="40.824829"
+       y1="244.94897"
+       x2="77.567177"
+       y2="281.69131"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient20"
+       x1="40.824829"
+       y1="208.20663"
+       x2="77.567177"
+       y2="244.94897"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient21"
+       x1="208.20663"
+       y1="40.824829"
+       x2="244.94897"
+       y2="77.567177"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient22"
+       x1="244.94897"
+       y1="40.824829"
+       x2="281.69131"
+       y2="77.567177"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient23"
+       x1="4.0824828"
+       y1="208.20663"
+       x2="40.824829"
+       y2="244.94897"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient24"
+       x1="4.0824828"
+       y1="244.94897"
+       x2="40.824829"
+       y2="281.69131"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient17-2"
+       x1="244.94897"
+       y1="4.0824828"
+       x2="281.69131"
+       y2="40.824829"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient18-5"
+       x1="208.20663"
+       y1="4.0824828"
+       x2="244.94897"
+       y2="40.824829"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient19-1"
+       x1="40.824829"
+       y1="244.94897"
+       x2="77.567177"
+       y2="281.69131"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient20-1"
+       x1="40.824829"
+       y1="208.20663"
+       x2="77.567177"
+       y2="244.94897"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient21-5"
+       x1="208.20663"
+       y1="40.824829"
+       x2="244.94897"
+       y2="77.567177"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient22-2"
+       x1="244.94897"
+       y1="40.824829"
+       x2="281.69131"
+       y2="77.567177"
+       gradientTransform="scale(0.40824829,2.4494897)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceDark"
+       id="linearGradient23-7"
+       x1="4.0824828"
+       y1="208.20663"
+       x2="40.824829"
+       y2="244.94897"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#faceLight"
+       id="linearGradient24-6"
+       x1="4.0824828"
+       y1="244.94897"
+       x2="40.824829"
+       y2="281.69131"
+       gradientTransform="scale(2.4494897,0.40824829)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="matrix(0.40709837,0,0,0.40709837,-12.331494,-16.538494)">
+      <g
+         id="g11"
+         transform="matrix(0.56482115,0,0,0.56482115,33.796815,43.152945)">
+        <polygon
+           points="100,10 115,85 100,100 "
+           fill="url(#faceLight)"
+           id="polygon4-8"
+           style="fill:url(#linearGradient17-2)" />
+        <polygon
+           points="100,10 100,100 85,85 "
+           fill="url(#faceDark)"
+           id="polygon5-8"
+           style="fill:url(#linearGradient18-5)" />
+        <polygon
+           points="190,100 115,115 100,100 "
+           fill="url(#faceLight)"
+           id="polygon6-2"
+           style="fill:url(#linearGradient19-1)" />
+        <polygon
+           points="190,100 100,100 115,85 "
+           fill="url(#faceDark)"
+           id="polygon7"
+           style="fill:url(#linearGradient20-1)" />
+        <polygon
+           points="100,190 85,115 100,100 "
+           fill="url(#faceDark)"
+           id="polygon8"
+           style="fill:url(#linearGradient21-5)" />
+        <polygon
+           points="100,190 100,100 115,115 "
+           fill="url(#faceLight)"
+           id="polygon9"
+           style="fill:url(#linearGradient22-2)" />
+        <polygon
+           points="10,100 85,85 100,100 "
+           fill="url(#faceDark)"
+           id="polygon10"
+           style="fill:url(#linearGradient23-7)" />
+        <polygon
+           points="10,100 100,100 85,115 "
+           fill="url(#faceLight)"
+           id="polygon11"
+           style="fill:url(#linearGradient24-6)" />
+      </g>
+      <path
+         style="fill:#7a8699;fill-opacity:1;stroke-width:0.238887"
+         d="M 82.057831,155.85746 C 65.192317,153.13249 51.30846,144.41257 42.442412,130.97654 37.648834,123.71212 34.336767,114.8161 33.460562,106.85182 33.134697,103.88985 33.131722,96.693455 33.455062,93.490016 34.333287,84.788527 38.275404,74.59042 43.5533,67.366254 51.302274,56.759778 61.886815,49.324114 74.157915,45.866439 c 4.763356,-1.342189 7.984027,-1.808567 13.513793,-1.956903 5.706077,-0.153066 8.739218,0.101756 13.270522,1.114891 11.14757,2.492436 21.736,8.419694 29.13047,16.306837 7.83252,8.354382 13.30578,19.554045 14.80338,30.291433 1.22889,8.810763 0.47446,17.878693 -2.1403,25.725253 -4.86395,14.59613 -15.04642,26.33402 -28.64888,33.02514 -5.28761,2.60101 -9.944,4.12768 -15.665258,5.13611 -2.689837,0.47411 -14.084017,0.7166 -16.363789,0.34826 z m 11.294411,-2.37656 c 16.729398,-1.2762 31.829138,-10.21118 40.969308,-24.2428 3.93006,-6.03325 6.56573,-12.81426 7.93884,-20.42488 0.62683,-3.47429 0.75625,-11.510477 0.24949,-15.49195 C 141.03242,81.713436 136.06506,71.27548 127.99685,62.824946 119.76166,54.199509 108.77869,48.570327 96.8254,46.848404 93.327056,46.344453 85.814979,46.335361 82.010345,46.830473 64.289036,49.136618 48.636816,60.543731 40.868846,76.813808 c -3.187048,6.675295 -4.897844,13.604488 -5.18745,21.010593 -0.832384,21.286559 10.869717,40.980039 29.893203,50.307289 8.89332,4.36042 17.929297,6.1005 27.777643,5.34921 z"
+         id="path9" />
+    </g>
+  </g>
 </svg>
